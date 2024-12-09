@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90e35af6-e17c-4401-974d-dec7ed753e88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/contracts/voter-registration.clar" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/voter-registration.clar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/voter-registration.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/voter-registration.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/voting.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/voting.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/chineduofor/Documents/GitHub/-Secure-Decentralized-Voting-Ecosystem/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733757305585</updated>
-      <workItem from="1733757306821" duration="603000" />
+      <workItem from="1733757306821" duration="1213000" />
     </task>
     <servers />
   </component>
